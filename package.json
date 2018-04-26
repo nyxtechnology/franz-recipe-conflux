@@ -1,0 +1,12 @@
+{
+  "id": "conflux",
+  "name": "Conflux",
+  "version": "1.0.0",
+  "description": "Conflux",
+  "main": "index.js",
+  "author": "Edmar Gomes <edmar.gomes@nyx.tc>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://confluxlab.co"
+  }
+}
